@@ -9,14 +9,12 @@
   background-color: #000000;
   padding-top: 160px;
   background-image: url(https://i.ibb.co/ygzQMjd/Project-calvo.png);
-  
-}
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   
   height: 100vh;
-  
+  }
   
   h1{
     color: red;
